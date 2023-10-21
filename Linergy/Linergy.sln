@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linergy", "Linergy.csproj", "{682FB050-4ECD-453D-9656-FF21C7E9C456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinergyContent", "..\LinergyContent\LinergyContent.contentproj", "{261F7BBD-8E65-4CC7-AB0A-DF3EE4E73D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{682FB050-4ECD-453D-9656-FF21C7E9C456}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{261F7BBD-8E65-4CC7-AB0A-DF3EE4E73D67}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{261F7BBD-8E65-4CC7-AB0A-DF3EE4E73D67}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
